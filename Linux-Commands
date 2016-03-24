@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+
+    <title>Working on Ubuntu by mesabuca</title>
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <h1>Programming C</h1>
+        <h2></h2>
+
+        <section id="downloads">
+          <a href="https://github.com/mesabuca" class="btn btn-github"><span class="icon"></span>My Github Page</a>
+        </section>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        <h1>
+
+<h1>
+<a id="linux-command-line" class="anchor" href="#linux-command-line" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Linux Commands</h1>
+
+<h2>
+<a id="how-we-use-terminal" class="anchor" href="#how-we-use-terminal" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>How We Use Terminal</h2>
+
+<p>Terminal is most useful thing in Linux systems. You can do almost everything on terminal and it is improving your skills as understandng computer language, writing faster etc. . </p>
+
+<h2>
+<a id="steps" class="anchor" href="#steps" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Steps:</h2>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+
+<p>Coming Soon ...</p>
+      </section>
+    </div>
+  </body>
+</html>
+
