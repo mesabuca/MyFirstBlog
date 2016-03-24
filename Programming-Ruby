@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+
+    <title>Working on Ubuntu by mesabuca</title>
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <h1>Programming C</h1>
+        <h2></h2>
+
+        <section id="downloads">
+          <a href="https://github.com/mesabuca" class="btn btn-github"><span class="icon"></span>My Github Page</a>
+        </section>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        <h1>
+
+<h1>
+<a id="programming-ruby" class="anchor" href="#programming-ruby" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Programming Ruby</h1>
+
+<h2>
+<a id="what-should-we-know-" class="anchor" href="#what-should-we-know-" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>What Are We Gonna Use</h2>
+
+<p>Firstly interpreter of object-oriented scripting language so we had to find a interpreter <br>
+<code>$ sudo apt-get install ruby-full</code> It's our program and we gonna use it on termnal (again :) ) <br>
+Our's extension is .rb and we can iterprete with <code>$ ruby filename.rb</code>. And also we can use <code>$ irb</code> (interactive ruby) can answer faster but you cant save your file. I'm suggesting nano ^^ <br>
+</p>
+
+<h2>
+<a id="steps" class="anchor" href="#steps" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Steps:</h2>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+<h3>
+<a id="" class="anchor" href="" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+
+
+<p>Coming Soon ...</p>
+      </section>
+    </div>
+  </body>
+</html>
+
